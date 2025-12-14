@@ -5,7 +5,6 @@
 🎓 **2nd Year Computer Science Engineering Student**  
 💻 **Full-Stack Developer** building scalable web applications  
 📍 Based in **Jamshedpur, Jharkhand**  
-🌱 Currently diving deep into **AI/ML** and **Docker**  
 ⚡ Fun fact: **I have no love towards coding** (but somehow still do it anyway 😄)
 
 ---
@@ -29,10 +28,6 @@
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Currently Learning
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -94,7 +89,5 @@ Contributing to college fest technical projects and web development initiatives
 <div align="center">
 
 ### 💭 *"Building the future, one reluctant commit at a time"* 
-
-![Profile Views](https://komarev.com/ghpvc/?username=usrjsr&color=blueviolet&style=for-the-badge)
 
 </div>
