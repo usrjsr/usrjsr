@@ -1,93 +1,201 @@
-# Hi there, I'm Utkarsh Singh 👋
+<div align="center">
+<h1 style="font-size: 48px; font-weight: 800; margin-bottom: 8px;">
+  Utkarsh Singh
+</h1>
 
-## 🚀 About Me
+<h3>Developer + Problem Solver</h3>
 
-🎓 **2nd Year Computer Science Engineering Student**  
-💻 **Full-Stack Developer** building scalable web applications  
-📍 Based in **Jamshedpur, Jharkhand**  
-⚡ Fun fact: **I have no love towards coding** (but somehow still do it anyway 😄)
+<p>
+  A Computer Science student who enjoys solving complex problems and building things.
+</p>
+
+<p>
+  <a href="https://github.com/usrjsr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/usrjsr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:utkarshsinghdau@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📍 NIT Jamshedpur, Jharkhand, India
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **3rd Year B.Tech Computer Science & Engineering student at NIT Jamshedpur** with a passion for building scalable web applications and solving algorithmic problems.
+
+I enjoy working across the full stack, designing practical systems, and turning ideas into working products.
+
+🎓 **B.Tech CSE — NIT Jamshedpur**
+
+📊 **CGPA:** 9.17
+
+🧩 **1000+ DSA Problems Solved**
+
+💻 **Full-Stack Developer**
+
+🏆 **Hack de Science '26 Winner**
+
+🌐 **Official Web Team — NIT Jamshedpur**
+
+⚔️ **Competitive Programmer**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
+<sub>C++</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br/>
+<sub>C</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
+<sub>JavaScript</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br/>
+<sub>TypeScript</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+<sub>SQL</sub>
+</td>
+</tr>
+</table>
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+<sub>React.js</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
+<sub>Next.js</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>
+<sub>Tailwind CSS</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
+<sub>HTML</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
+<sub>CSS</sub>
+</td>
+</tr>
+</table>
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend & Database
 
----
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
+<sub>Node.js</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br/>
+<sub>Express.js</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
+<sub>MongoDB</sub>
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+### Tools
 
-<div align="center">
-  
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrjsr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+<sub>Git</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+<sub>GitHub</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>
+<sub>Postman</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+<sub>VS Code</sub>
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usrjsr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+### 🔐 Authentication & APIs
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usrjsr&theme=radical&hide_border=true&background=0D1117)
+<p align="center">
 
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Bcrypt-338033?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+
+</p>
+
+### 🧠 CS Fundamentals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-Algorithms-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-Programming-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-Database-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS-Operating%20Systems-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CN-Computer%20Networks-181717?style=for-the-badge" />
+
+</p>
 </div>
 
----
+## 💼 Experience
 
-## 🔥 Featured Projects
+### Web Team Member — Official Web Team, NIT Jamshedpur
 
-### 🕰️ [MemoryLane](https://github.com/usrjsr/memorylane)
-AI-powered digital time capsule platform with scheduled unlocking and collaborative storytelling
-- **Tech Stack:** Next.js 14, TypeScript, MongoDB, Google Gemini AI
-- **Features:** Multimedia uploads, scheduled unlocking, real-time collaboration, AI-enhanced captions
-- **Highlights:** Full-stack architecture, NextAuth authentication, UploadThing integration
+**Feb 2026 – Present**
 
-### 🎉 Contributor to [OJASS 2026](https://github.com/ojass2026)
-Contributing to college fest technical projects and web development initiatives
+- Selected through a multi-stage process involving an online assessment, hackathon, and technical interview.
+- Contributing to the development and management of the institute's official website and digital platforms.
+- Collaborated with team members to develop **E-Malkhana**, a digital evidence management system.
 
----
+### Web Team Member — OJASS '26, NIT Jamshedpur
 
-## 🌐 Connect With Me
+**Oct 2025 – Feb 2026**
 
-<div align="center">
+- Contributed to the development of the official platform for East India's 2nd largest Techno-Management Fest.
+- Built responsive UI components and optimized page rendering for seamless performance across devices.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usrjsr/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshsinghdau@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usrjsr)
+🔗 [Visit OJASS](https://ojass.org)
 
-</div>
+## 🌱 Currently
 
----
-
-## 💼 What I'm Up To
-
-- 🔭 Building full-stack applications with modern web technologies
-- 🌱 Exploring AI/ML integration in web apps
-- 🐳 Learning containerization with Docker
-- 👯 Open to collaborating on interesting projects
-- 💬 Ask me about **Next.js, React, MongoDB, or Full-Stack Development**
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=usrjsr&theme=react-dark&hide_border=true&area=true)
-
----
-
-<div align="center">
-
-### 💭 *"Building the future, one reluctant commit at a time"* 
-
-</div>
+```text
+Building       → Scalable full-stack applications
+Exploring      → AI/ML + modern web technologies
+Improving      → Data Structures & Algorithms
+Learning       → Backend Architecture & Docker
+Contributing   → NIT Jamshedpur Web Team
+Looking for    → Interesting projects & collaborations
+```
